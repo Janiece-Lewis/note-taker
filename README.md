@@ -1,4 +1,4 @@
-# Object-oriented Programming: SVG Logo Maker
+# note-taker
 
 ## My Task
 
